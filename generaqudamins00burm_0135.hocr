@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./generaqudamins00burm_0135.png"; bbox 0 0 1737 3078; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 612 135 1051 168">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 612 135 1051 168">
+     <span class='ocr_line' id='line_1_1' title="bbox 612 135 1051 168; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 612 135 734 168; x_wconf 70' lang='lat' dir='ltr'><em>UrdoI.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 756 135 847 168; x_wconf 66' lang='lat' dir='ltr'><em>Trib.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 862 136 890 168; x_wconf 71' lang='lat' dir='ltr'><em>L</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 904 135 999 168; x_wconf 82' lang='lat' dir='ltr'><em>Fam.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1010 137 1051 167; x_wconf 87' lang='lat' dir='ltr'><em>I.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 84 852 1621 2470">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 84 852 1621 2470">
+     <span class='ocr_line' id='line_1_2' title="bbox 84 852 1621 2470; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 84 852 1621 2470; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 618 2725 1050 2758">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 618 2725 1050 2758">
+     <span class='ocr_line' id='line_1_3' title="bbox 618 2725 1050 2758; baseline 0.007 -3"><span class='ocrx_word' id='word_1_7' title='bbox 618 2725 744 2756; x_wconf 76' lang='lat' dir='ltr'>Genus</span> <span class='ocrx_word' id='word_1_8' title='bbox 772 2725 1034 2758; x_wconf 75' lang='lat' dir='ltr'>PnTfflRIUS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1045 2753 1050 2758; x_wconf 95' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 59 2975 1615 2998">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 59 2975 1615 2998">
+     <span class='ocr_line' id='line_1_4' title="bbox 59 2975 1615 2998; baseline 0.002 -4"><span class='ocrx_word' id='word_1_10' title='bbox 59 2975 81 2994; x_wconf 68' lang='grc' dir='ltr'><em>Γ.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 90 2975 116 2994; x_wconf 63' lang='grc'><em>13.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 127 2975 218 2995; x_wconf 63' lang='lat' dir='ltr'><em>Nilzwh</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 239 2978 277 2996; x_wconf 68' lang='lat' dir='ltr'><em>del</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 283 2992 286 2996; x_wconf 84' lang='lat'>.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1447 2980 1568 2998; x_wconf 53' lang='lat' dir='ltr'><em>«Postumum</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1583 2986 1615 2998; x_wconf 60' lang='lat' dir='ltr'><em>sc.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

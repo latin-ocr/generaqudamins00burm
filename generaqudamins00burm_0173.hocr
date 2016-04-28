@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./generaqudamins00burm_0173.png"; bbox 0 0 1737 3078; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 571 67 1015 106">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 571 67 1062 116">
+     <span class='ocr_line' id='line_1_1' title="bbox 571 67 1015 106; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 571 76 671 106; x_wconf 56' lang='grc' dir='ltr'><em>ΘΗΛ,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 697 76 726 106; x_wconf 86' lang='lat' dir='ltr'><em>l.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 754 73 839 105; x_wconf 41' lang='lat' dir='ltr'><em>&#39;Imm</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 856 67 902 105; x_wconf 32' lang='grc' dir='ltr'><em>Δί’.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 921 73 1015 105; x_wconf 60' lang='grc' dir='ltr'><em>ΗΜΛ,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 41 149 1605 2811">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 41 149 1605 2811">
+     <span class='ocr_line' id='line_1_2' title="bbox 41 149 1605 2811; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 41 149 1605 2811; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 588 2888 1084 2927">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 588 2888 1084 2927">
+     <span class='ocr_line' id='line_1_3' title="bbox 588 2888 1084 2927; baseline -0.002 -3"><span class='ocrx_word' id='word_1_7' title='bbox 588 2890 694 2925; x_wconf 66' lang='grc' dir='ltr'>(ἶυιι</span> <span class='ocrx_word' id='word_1_8' title='bbox 710 2905 763 2927; x_wconf 61' lang='lat' dir='ltr'><em>us</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 789 2889 916 2927; x_wconf 50' lang='lat' dir='ltr'><em>LN&#39;S</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 931 2889 968 2924; x_wconf 70' lang='grc' dir='ltr'>Τ</span> <span class='ocrx_word' id='word_1_11' title='bbox 983 2888 1084 2925; x_wconf 66' lang='grc' dir='ltr'><em>Κλ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1387 2993 1512 3011">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1387 2993 1512 3011">
+     <span class='ocr_line' id='line_1_4' title="bbox 1387 2993 1512 3011; baseline -0.008 0"><span class='ocrx_word' id='word_1_12' title='bbox 1387 2993 1472 3011; x_wconf 58' lang='lat' dir='ltr'><em>lumim-</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1481 2999 1512 3010; x_wconf 63' lang='grc' dir='ltr'><em>η’.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
